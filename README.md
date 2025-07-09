@@ -18,7 +18,7 @@ K-Means is an unsupervised learning algorithm used for clustering data points in
 ## 🗂️ Project Structure
 
 ```
-linear-regression/
+K-means-from-scratch/
 ├── data/
 │   └── Iris (1).csv          # Sample input dataset
 ├── notebooks/
