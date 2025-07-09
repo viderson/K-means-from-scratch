@@ -38,7 +38,7 @@ cd K-means-from-scratch
 
 2. **Run the notebook**
 ```bash
-jupyter notebook test.ipynb
+jupyter notebook K_means.ipynb
 ```
 
 
