@@ -36,28 +36,11 @@ git clone https://github.com/yourusername/K-means-from-scratch.git
 cd K-means-from-scratch
 ```
 
-2. **Install dependencies**
-```bash
-pip install numpy matplotlib
-```
-
-3. **Run the notebook**
+2. **Run the notebook**
 ```bash
 jupyter notebook test.ipynb
 ```
 
-Or run the script:
-```bash
-python kmeans.py
-```
-
----
-
-## 📊 Example Output
-
-You can generate and visualize clusters using matplotlib or plotly. See `test.ipynb` for examples.
-
----
 
 ## 🧠 Concepts Covered
 
@@ -69,19 +52,8 @@ You can generate and visualize clusters using matplotlib or plotly. See `test.ip
 
 ---
 
-## 📚 References
 
-- [K-Means Clustering - Wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
-- [Scikit-learn User Guide - KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## ✨ Author
 
-Created with ❤️ by [Your Name](https://github.com/yourusername)
+Created with ❤️ by FW
