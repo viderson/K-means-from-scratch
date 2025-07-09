@@ -18,12 +18,12 @@ K-Means is an unsupervised learning algorithm used for clustering data points in
 ## 🗂️ Project Structure
 
 ```
-K-means-from-scratch-main/
-├── kmeans.py              # Main class implementing the algorithm
-├── utils.py               # Helper functions (e.g., distance calc, plotting)
-├── test.ipynb             # Notebook to test and visualize the algorithm
-├── data/                  # Optional folder with datasets
-└── README.md              # You're here
+linear-regression/
+├── data/
+│   └── Iris (1).csv          # Sample input dataset
+├── notebooks/
+│   └── K-means.ipynb
+└── README.md
 ```
 
 ---
